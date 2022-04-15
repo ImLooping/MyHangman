@@ -1,0 +1,11 @@
+words_list = ["armoire", "boucle", "buisson", "bureau", "cercle", "carton", "couteau", "fichier", "garage",
+"glace", "journal", "kiwi", "lampe", "menthe", "montagne", "remise", "sandale", "taxi", "vampire", "volant",
+"voiture", "wagon", "diplodocus","avion", "diplodocus", "justice", "pasteque", "mathematique", "aventure",
+"consoles", "dictionnaire", "histoire", "estomac", "baignoire", "parapluie", "sauvage", "emballage", "chapeau",
+"personne", "sieste", "tentacule", "angoisse", "plafond", "point", "loupe", "soir", "entrevue", "vacances", "paquets",
+"documents", "ramper", "dentifrice", "bois", "bouteille", "galaxie", "antidote", "testament", "clarifier", "chameau", "classe",
+"entonnoir", "poisson", "balai", "exploiter", "miette", "serveur", "conseils", "aspirine", "facteur", "billets", "lecteur", 
+"seisme", "fripouille", "fortune", "carabine", "inventaire", "scarabee", "fatigue", "couronne", "ampoule", "voyage",
+"cheville", "escabeau", "crocodile", "recette", "potage", "hamster", "aquarium", "moustache", "guirlande", "bijou",
+"confortable", "squelette", "coccinelle", "grimace", "enveloppe", "quartier", "haricot", "coquillage", "evier",
+"triceratops", "brachiosaure"] 
